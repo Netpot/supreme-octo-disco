@@ -1,2 +1,6 @@
 # pull-requests-
 Tolong menolong serta ber collaborate on code with other people
+# suproctodisc
+supreme octo disco
+# circuit
+this my#1 circuit https://quantum-computing.ibm.com/composer/files/new?initial=N4IgdghgtgpiBcICyBPABAMwJYCcDOALmgMa7ECuWBIANCAI4R5QIgDyACgKIByAigEEAykjQAmAHQAGANwAdMFjDEANuQAmMNHIYwVWAEYBGCUuI75YejhgBzNPQDaYgLqXiN%2B8WduFACwdHKV9lAA9A4JonIxDYJnIbCJc0AFoAPhIgt1oQTTwPLAAHAiwAezBWATQAIT0VNEIIAjgAXyA
